@@ -3,21 +3,25 @@
     "ID": 1,
     "Location": "weltweit",
     "Medium": "sprachnachricht",
-    "Headline": "Ibuprofen Sprachnachricht",
+    "Headline": "Ibuprofen-Sprachnachricht ist falsch",
     "Category": "Krankheit",
     "Tags": "ibuprofen sprachnachricht wien krankheitsverlauf",
     "Snack": "Es gibt eine Sprachnachricht auf Whatsapp, in der gesagt wird, dass sich Ibuprofen negativ auf den Krankheitsverlauf auswirkt. Als Quelle wird dabei die Universität Wien genannt. Die Universität hat auf Twitter klar gestellt, dass das sie so etwas nie verbreitet hat.",
-    "URL": "https://twitter.com/MedUni_Wien/status/1238782938344554496"
+    "URL": "https://twitter.com/MedUni_Wien/status/1238782938344554496",
+    "Sharepic": "Es ist nicht erwiesen, dass sich Ibuprofen auf Corona auswirkt. Die Universität Wien hat nie einen Zusammenhang zwischen dem Virus und dem Medikament verbreitet. Quelle: Correctiv",
+    "Highlight": "Ibuprofen"
   },
   {
     "ID": 2,
     "Location": "deutschland",
     "Medium": "artikel",
-    "Headline": "Geheimplan",
+    "Headline": "Kein Geheimplan der Regierung zu Corona",
     "Category": "Alltag Politik",
     "Tags": "regierung geheimplan",
     "Snack": "In einem Artikel wird behauptet, dass ein Geheimplan der Regierung zur Corona-Krise entdeckt wurde. Recherchen von “Correctiv” haben ergeben, dass dies nicht stimmt. Der Plan, von dem der Artikel handelt, ist eine Risikoanalyse für ein ausgedachtes Virus. Das Dokument ist auch nicht geheim, sondern frei zugänglich.",
-    "URL": "https://correctiv.org/faktencheck/2020/03/18/coronavirus-um-was-es-bei-dem-angeblichen-geheimplan-der-regierung-2012-wirklich-ging"
+    "URL": "https://correctiv.org/faktencheck/2020/03/18/coronavirus-um-was-es-bei-dem-angeblichen-geheimplan-der-regierung-2012-wirklich-ging",
+    "Sharepic": "Es gibt keinen alten Geheimplan der Regierung zur Corona-Epidemie. Ein in sozialen Medien als geheim bezeichneter Plan ist eine öffentlich zugängliche Risikoanalyse für einen ausgedachten Virus. Quelle: Correctiv",
+    "Highlight": "kein Geheimplan"
   },
   {
     "ID": 3,
@@ -27,7 +31,9 @@
     "Category": "",
     "Tags": "desinfektionsmittel",
     "Snack": "Auf Facebook wird behauptet, dass das Coronavirus schon seit Jahren bekannt sei, weil auf älteren Desinfektionsmittelflaschen steht, dass sie gegen Coronaviren helfen. Der Faktencheck von “Correctiv” hat das nachgeprüft. Es stimmt zwar, dass das auf den Flaschen steht, doch damit ist die Familie der Coronaviren gemeint. Das Virus, mit dem wir es zur Zeit zu tun haben gehört zu dieser Familie, aber er ist ein neuartiges Virus, das vollständig SARS-CoV-2 heißt.",
-    "URL": "https://correctiv.org/faktencheck/2020/03/13/coronavirus-steht-auf-desinfektionsmitteln-weil-die-viren-familie-schon-seit-jahrzehnten-bekannt-ist"
+    "URL": "https://correctiv.org/faktencheck/2020/03/13/coronavirus-steht-auf-desinfektionsmitteln-weil-die-viren-familie-schon-seit-jahrzehnten-bekannt-ist",
+    "Sharepic": "Auf dem Label von alten Desinfektionsflaschen ist nicht von der aktuellen Corona-Epidemie zu lesen. Auf manchen steht \"Coronavirus\", aber damit ist die Familie der Coronaviren und nicht das neue SARS-CoV-2 gemeint. Quelle: Correctiv",
+    "Highlight": "Desinfektionsflaschen"
   },
   {
     "ID": 4,
@@ -37,17 +43,21 @@
     "Category": "Pandemie Ausmaß",
     "Tags": "Särge Italien Tote",
     "Snack": "Auf einem Foto, das derzeit häufig auf Facebook geteilt wird, sollen angeblich Särge von an dem Virus gestorbene Menschen zu sehen sein. Das stimmt nicht, wie “Correctiv” recherchiert hat. In Wirklichkeit entstand das Foto schon 2013 auf Lampedusa. Die Toten in den Särgen sind keine Opfer der Corona-Epidemie, sondern ertrunkene Geflüchtete.",
-    "URL": "https://correctiv.org/faktencheck/2020/03/20/dieses-foto-zeigt-keine-saerge-von-menschen-die-in-italien-durch-das-coronavirus-gestorben-sind"
+    "URL": "https://correctiv.org/faktencheck/2020/03/20/dieses-foto-zeigt-keine-saerge-von-menschen-die-in-italien-durch-das-coronavirus-gestorben-sind",
+    "Sharepic": "Ein oft geteiltes Foto von aufgereihten Särgen hat nichts mit dem Coronavirus zu tun. Es entstand 2013 auf Lampedusa. Quelle: Correctiv",
+    "Highlight": "Särgen"
   },
   {
     "ID": 5,
     "Location": "weltweit",
     "Medium": "Kettenbrief",
-    "Headline": "Coronavirus-Selbsttest",
+    "Headline": "Coronavirus-Selbsttest wirkt nicht",
     "Category": "Krankheit Symptome",
     "Tags": "selbsttest luft-anhalten",
     "Snack": "Auf Whatsapp geht derzeit ein Kettenbrief um, in dem unter anderem ein angeblicher Selbsttest auf das Coronavirus angepriesen wird. Wer zehn Sekunden die Luft anhalten kann ohne Husten zu müssen, sei nicht mit dem Corona-Virus infiziert. Das ist falsch, wie auf der Website “Correctiv” erläutert wird. Auch viele andere angebliche Tipps aus dem Kettenbrief sind schlicht falsch.",
-    "URL": "https://correctiv.org/faktencheck/2020/03/16/falsche-tipps-in-whatsapp-kettenbrief-luft-anhalten-oder-wasser-trinken-helfen-nicht-gegen-coronavirus"
+    "URL": "https://correctiv.org/faktencheck/2020/03/16/falsche-tipps-in-whatsapp-kettenbrief-luft-anhalten-oder-wasser-trinken-helfen-nicht-gegen-coronavirus",
+    "Sharepic": "Luftanhalten ist kein Selbsttest auf Corona. Auch wenn ein Kettenbrief das behauptet. Quelle: Correctiv",
+    "Highlight": "Luftanhalten"
   },
   {
     "ID": 6,
@@ -57,7 +67,9 @@
     "Category": "Alltag Hamsterkäufe",
     "Tags": "aldi stürmen panik Sturm",
     "Snack": "In den Sozialen Medien wird ein Video verbreitet, das angeblich zeigt, wie Menschen eine Aldi-Filiale stürmen. Dieses Video hat nichts mit der Corona-Epidemie zu tun. Laut dem Faktencheck von “Correctiv” stammt es aus dem Jahr 2011. Damals löste ein Sonderverkauf für Laptops den Ansturm aus.",
-    "URL": "https://correctiv.org/faktencheck/2020/03/05/video-diese-menschen-stuermten-aldi-nicht-wegen-des-coronavirus-sondern-wegen-laptops"
+    "URL": "https://correctiv.org/faktencheck/2020/03/05/video-diese-menschen-stuermten-aldi-nicht-wegen-des-coronavirus-sondern-wegen-laptops",
+    "Sharepic": "Der Aldi in Kiel wurde nicht von Hamsterkäufern gestürmt. Ein verbreitetes Bild zeigt einen Ansturm auf einen Aldi in Kiel in 2011. Der Grund: Sonderangebote für Laptops. Quelle: Correctiv",
+    "Highlight": "Aldi"
   },
   {
     "ID": 7,
@@ -67,7 +79,9 @@
     "Category": "Krankheit Ansteckung",
     "Tags": "Hitzebeständigkeit Bad Kaffee Tee Heißgetränke",
     "Snack": "Oft wird behauptet, das Coronavirus sterbe bereits bei Temperaturen von 26 bis 27 Grad ab. Das ist falsch. Unsere Körpertemperatur liegt konstant bei etwa 37 Grad. Auch ein heißes Bad oder Heißgetränke helfen nicht gegen Coronaviren. Diesen und weitere Mythen hat das ZDF auf Grundlage von Mitteilungen der Weltgesundheitsorganisation widerlegt.",
-    "URL": "https://www.zdf.de/nachrichten/panorama/mythen-kettenbriefe-coronavirus-100.html"
+    "URL": "https://www.zdf.de/nachrichten/panorama/mythen-kettenbriefe-coronavirus-100.html",
+    "Sharepic": "Ein heißes Bad oder Tee helfen nicht gegen Corona. Die Temperaturen von beidem töten das Virus nicht ab. Quelle: SWR",
+    "Highlight": "Bad Tee"
   },
   {
     "ID": 8,
@@ -77,7 +91,9 @@
     "Category": "Krankheit Medikamente",
     "Tags": "Chlordioxid MMS Medikament Heilmittel",
     "Snack": "Immer wieder wird Chlordioxid oder “Miracle Mineral Supplement” (MMS) als Heilmittel gegen das Coronavirus empfohlen. In Wahrheit sind sie jedoch gesundheitsschädlich. MMS besteht aus Natriumchlorit, das im Körper zu Chlordioxid abgebaut wird. Die Chemikalie ist stark ätzend und wird normalerweise als Bleiche oder Desinfektionsmittel verwendet. Auf der Homepage von SWR3 werden dieser und weitere Corona-Mythen widerlegt.",
-    "URL": "https://www.swr3.de/aktuell/Diese-Meldungen-sind-Fake-News-von-Coronavirus-bis-Volkmarsen/-/id=4382120/did=4840638/1x5o4tu/index.html"
+    "URL": "https://www.swr3.de/aktuell/Diese-Meldungen-sind-Fake-News-von-Coronavirus-bis-Volkmarsen/-/id=4382120/did=4840638/1x5o4tu/index.html",
+    "Sharepic": "“Miracle Mineral Supplement” (MMS) oder Chlordioxid ist gesundheitschädlich! Es ist kein Heilmittel gegen Corona, sondern wird normalerweise als Bleiche verwendet. Quelle: SWR",
+    "Highlight": "Chlordioxid gesundheitsschädlich"
   },
   {
     "ID": 9,
@@ -87,7 +103,9 @@
     "Category": "Krankheit Ansteckung",
     "Tags": "Alkohol RKI Robert-Koch-Institut Bier",
     "Snack": "Auf WhatsApp kursiert aktuell ein Foto, das eine angebliche Mitteilung des Robert-Koch-Instituts (RKI) zeigt. Angeblich wirbt das RKI ausdrücklich für den erhöhten Verzehr von Alkohol. Bis zu fünf Bier am Tag sollen helfen, den Mund- und Rachenraum zu desinfizieren. Wer mehr verträgt, solle sogar mehr trinken. Bei diesem Bild handelt es sich um einen Fake. Das Bundesamt für Risikobewertung bestätigt zwar die empfindliche Wirkung von Alkohol auf Viren, gemeint ist aber die Desinfektion von Händen und öffentlich genutzten Flächen mithilfe von Alkohol.",
-    "URL": "https://www.mimikama.at/allgemein/robert-koch-institut-in-der-fastenzeit-auf-alkohol-zu-verzichten-faktencheck/ https://www.rnd.de/gesundheit/alkohol-totet-coronaviren-drei-fakten-zu-corona-und-was-dagegen-hilft-BCGK6ZDAWVDI5M5YMHHPYK6DIY.html"
+    "URL": "https://www.mimikama.at/allgemein/robert-koch-institut-in-der-fastenzeit-auf-alkohol-zu-verzichten-faktencheck/ https://www.rnd.de/gesundheit/alkohol-totet-coronaviren-drei-fakten-zu-corona-und-was-dagegen-hilft-BCGK6ZDAWVDI5M5YMHHPYK6DIY.html",
+    "Sharepic": "Das Robert Koch Institut wirbt nicht für den Verzehr von Alkohol. Bier schützt nicht vor Corona. Quelle: Mimika",
+    "Highlight": "Alkohol"
   },
   {
     "ID": 10,
@@ -97,7 +115,9 @@
     "Category": "Krankheit Ansteckung",
     "Tags": "Wasser",
     "Snack": "In einem Facebook-Post vom 16.März wird behauptet, dass das Coronavirus vier Tage in der Kehle bleibt, bis es die Lunge erreicht. Zwar ist es gut für die Gesundheit, ausreichend zu trinken, eine Corona-Infektion kann damit jedoch nicht verhindert werden. Correctiv stellt klar: Weder trinken, noch gurgeln können das Coronavirus abtöten oder die Erkrankung eindämmen.",
-    "URL": "https://correctiv.org/faktencheck/2020/03/20/wassertrinken-und-gurgeln-halten-das-coronavirus-nicht-auf"
+    "URL": "https://correctiv.org/faktencheck/2020/03/20/wassertrinken-und-gurgeln-halten-das-coronavirus-nicht-auf",
+    "Sharepic": "Wasser trinken schützt nicht vor dem Coronavirus. Quelle: Correctiv",
+    "Highlight": "Wasser"
   },
   {
     "ID": 11,
@@ -107,7 +127,9 @@
     "Category": "Krankheit Ansteckung",
     "Tags": "Knoblauch",
     "Snack": "Es geht das Gerücht um, dass Knoblauch gegen das Coronavirus schützt. Dafür gibt es jedoch keinen Anhaltspunkt, wie die Weltgesundheitsorganisation auf ihrer Website erklärt.",
-    "URL": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+    "URL": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+    "Sharepic": "Knoblauch schützt, entgegen aller Gerüchte, nicht vor dem Coronavirus. Quelle: WHO",
+    "Highlight": "Knoblauch"
   },
   {
     "ID": 12,
@@ -117,7 +139,9 @@
     "Category": "Krankheit",
     "Tags": "Senden Neu-Ulm Bayern Schwaben",
     "Snack": "Derzeit kursieren zahlreiche Screenshots von angeblichen Mitteilungen des Robert-Koch-Instituts. In einem davon wird die Stadt Senden im bayerischen Landkreis Neu-Ulm als Corona-Gefahrengebiet bezeichnet. Besonders das Bahnhofsviertel solle gemieden werden. Dieser Screenshot ist gefälscht, wie das Landratsamt Neu-Ulm mitteilt.",
-    "URL": "https://landkreis.neu-ulm.de/de/aktuelles-detail/corona-virus-achtung-vor-fake-news-bitte-nur-den-offiziellen-seiten-vertrauen-nachrichten-auf-ihre-echtheit-pruefen.html"
+    "URL": "https://landkreis.neu-ulm.de/de/aktuelles-detail/corona-virus-achtung-vor-fake-news-bitte-nur-den-offiziellen-seiten-vertrauen-nachrichten-auf-ihre-echtheit-pruefen.html",
+    "Sharepic": "Die Stadt Senden ist kein Corona-Hotspot. Screenshots, die das Gegenteil behaupten, sind nicht vom Robert-Koch-Institut, sondern gefälscht. Quelle: Landkreis Neu-Ulm",
+    "Highlight": "Senden"
   },
   {
     "ID": 13,
@@ -127,7 +151,9 @@
     "Category": "Alltag Haustiere",
     "Tags": "china haustiere schlachten",
     "Snack": "In einem Artikel wird behauptet, dass chinesische Behörden angeordnet haben, Haustiere zu schlachten. Der Faktencheck von “Correctiv” hat das untersucht und keine Belege für die Behauptung gefunden. Demnach gab es eine Aufforderung, dass Straßenhunde getötet werden sollen, um das Virus einzudämmen. Von Haustieren war aber nie die Rede.",
-    "URL": "https://correctiv.org/faktencheck/medizin-und-gesundheit/2020/02/14/coronavirus-chinesische-behoerden-fordern-nicht-haustiere-zu-schlachten-teilweise-werden-aber-strassenhunde-getoetet"
+    "URL": "https://correctiv.org/faktencheck/medizin-und-gesundheit/2020/02/14/coronavirus-chinesische-behoerden-fordern-nicht-haustiere-zu-schlachten-teilweise-werden-aber-strassenhunde-getoetet",
+    "Sharepic": "Chinesische Behörden haben nicht angeordnet, Haustiere zu töten. Für anderweitige Behauptungen gibt es keine Belege. Quelle: Correctiv",
+    "Highlight": "Haustiere"
   },
   {
     "ID": 14,
@@ -137,7 +163,9 @@
     "Category": "Alltag",
     "Tags": "roman Koontz voraussage",
     "Snack": "Auf Facebook ist immer wieder von einem Buch die Rede, das den Virus voraussagt. Der Roman “The Eyes of Darkness” von Dean R. Koontz ist im Jahr 1981 erschienen und soll den Ausbruch des Virus genau beschreiben. Die Faktchecker von “Mimikama” haben sich die entsprechenden Stellen im Roman genauer angeschaut. Es gibt tatsächlich einzelne Übereinstimmungen, wie den Ausbruchsort des Virus Wuhan. Aber die anderen Daten stimmen nicht mit der Realität überein.",
-    "URL": "https://www.mimikama.at/allgemein/schrieb-dean-koontz-ueber-den-neuen-coronavirus-faktencheck/"
+    "URL": "https://www.mimikama.at/allgemein/schrieb-dean-koontz-ueber-den-neuen-coronavirus-faktencheck/",
+    "Sharepic": "In \"The Eyes of Darkness” von Dean R. Koontz finden sich zwar einzelne Übereinstimmungen mit der Corona-Pandemie, aber der Roman hat die Ausbreitung des Virus nicht vorhergesagt. Quelle: Mimikama",
+    "Highlight": "The Eyes of Darkness"
   },
   {
     "ID": 15,
@@ -147,7 +175,21 @@
     "Category": "Krankheit Ansteckung",
     "Tags": "zwiebel anziehen",
     "Snack": "Zwiebeln ziehen Coronaviren nicht an. Die Faktenckecker von der Tagesschau haben anderweitige Behauptungen wiederlegt.",
-    "URL": "https://www.tagesschau.de/faktenfinder/faktencheck-coronavirus-mythen-101.html"
+    "URL": "https://www.tagesschau.de/faktenfinder/faktencheck-coronavirus-mythen-101.html",
+    "Sharepic": "Zwiebeln ziehen Coronaviren nicht an. Quelle: Tagesschau",
+    "Highlight": "Zwiebeln"
+  },
+  {
+    "ID": 16,
+    "Location": "deutschland",
+    "Medium": "video",
+    "Headline": "Von wegen Panikmache",
+    "Category": "Pandemie Ausmaß",
+    "Tags": "Wodarg Arzt Amtsarzt Bundestagsabgeordneter Internist Panik",
+    "Snack": "Der Arzt Wolfgang Wodarg hat die Maßnahmen gegen das Coronavirus online als unverhältnismäßig dargestellt. Für eine Erkältungswelle sei die Situation nicht besonders. In ihrem Faktenfinder hat sich die Tagesschau mit seinen Aussagen auseinandergesetzt: Diese stimmen zwar teilweise, oft fehlen aber wichtige Details. Wodarg sagt beispielsweise, das Coronavirus sei nicht unbedingt gefährlicher als die bisher bekannten Coronaviren. In der Argumentation wird allerdings nicht berücksichtigt, dass praktisch niemand gegen das neue SARS-CoV-2 immun ist und die schnelle Ansteckung außergewöhnlich vieler Menschen die Kapazitäten der Intensivstationen auslasten könnte.",
+    "URL": "https://www.tagesschau.de/faktenfinder/corona-wodarg-101.html",
+    "Sharepic": "Von wegen Panikmache: Der Arzt Wolfgang Wodarg unterschlägt in seinen Aussagen zur Corona-Epidemie wichtige Details. Quelle: Tagesschau",
+    "Highlight": "Wodarg"
   }
  ]
  
