@@ -1,17 +1,5 @@
 [
   {
-    "ID": 1,
-    "Location": "weltweit",
-    "Medium": "sprachnachricht",
-    "Headline": "Ibuprofen-Sprachnachricht ist falsch",
-    "Category": "Krankheit",
-    "Tags": "ibuprofen sprachnachricht wien krankheitsverlauf",
-    "Snack": "Es gibt eine Sprachnachricht auf Whatsapp, in der gesagt wird, dass sich Ibuprofen negativ auf den Krankheitsverlauf auswirkt. Als Quelle wird dabei die Universität Wien genannt. Die Universität hat auf Twitter klar gestellt, dass das sie so etwas nie verbreitet hat.",
-    "URL": "https://twitter.com/MedUni_Wien/status/1238782938344554496",
-    "Sharepic": "Es ist nicht erwiesen, dass sich Ibuprofen auf Corona auswirkt. Die Universität Wien hat nie einen Zusammenhang zwischen dem Virus und dem Medikament verbreitet. Quelle: Correctiv",
-    "Highlight": "Ibuprofen"
-  },
-  {
     "ID": 2,
     "Location": "deutschland",
     "Medium": "artikel",
